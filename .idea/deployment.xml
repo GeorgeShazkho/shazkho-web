@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="remote">
+    <serverData>
+      <paths name="local">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="remote">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public_html" local="$PROJECT_DIR$/public_html" web="/" />
+            <mapping deploy="/shazkho-web" local="$PROJECT_DIR$/shazkho-web" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/shazkho-web/.env" />
+            <excludedPath local="true" path="$PROJECT_DIR$/shazkho-web/.env.example" />
+            <excludedPath local="true" path="$PROJECT_DIR$/shazkho-web/.gitattributes" />
+            <excludedPath local="true" path="$PROJECT_DIR$/shazkho-web/.gitignore" />
+            <excludedPath local="true" path="$PROJECT_DIR$/shazkho-web/artisan" />
+            <excludedPath local="true" path="$PROJECT_DIR$/shazkho-web/composer.json" />
+            <excludedPath local="true" path="$PROJECT_DIR$/shazkho-web/composer.lock" />
+            <excludedPath local="true" path="$PROJECT_DIR$/shazkho-web/readme.md" />
+            <excludedPath path="/public_html/.htpasswds" />
+            <excludedPath path="/public_html/ayudantia" />
+            <excludedPath path="/public_html/cgi-bin" />
+            <excludedPath path="/public_html/coordinador" />
+            <excludedPath path="/public_html/daniel" />
+            <excludedPath path="/public_html/fotos" />
+            <excludedPath path="/public_html/isw" />
+            <excludedPath path="/public_html/japdict" />
+            <excludedPath path="/public_html/juegos" />
+            <excludedPath path="/public_html/keitaijisho" />
+            <excludedPath path="/public_html/kj_webservices" />
+            <excludedPath path="/public_html/micros" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

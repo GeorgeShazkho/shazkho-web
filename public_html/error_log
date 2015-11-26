@@ -1,0 +1,7 @@
+[26-Nov-2015 14:22:43 America/Santiago] PHP Fatal error:  Uncaught exception 'UnexpectedValueException' with message 'creating archive "Composer.phar" disabled by the php.ini setting phar.readonly' in /home/shazkhoc/public_html/composerExtractor.php:10
+Stack trace:
+#0 /home/shazkhoc/public_html/composerExtractor.php(10): Phar->__construct('Composer.phar')
+#1 {main}
+  thrown in /home/shazkhoc/public_html/composerExtractor.php on line 10
+[26-Nov-2015 14:41:43 America/Santiago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/shazkhoc/public_html/index.php on line 50
+[26-Nov-2015 15:08:50 America/Santiago] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/shazkhoc/public_html/index.php on line 50
